@@ -1,4 +1,7 @@
 {
   "livePreview": false,
-  "propertiesInDocument": "source"
+  "propertiesInDocument": "source",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "_staging",
+  "attachmentFolderPath": "_staging"
 }

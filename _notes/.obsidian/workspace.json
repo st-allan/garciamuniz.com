@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "d814b1ec53ba724b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8324aae85d936aa9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "aca9fe6071eae4bd",
         "type": "tabs",
         "children": [
@@ -29,11 +11,28 @@
             "id": "01e7874d22566e5d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "my new digital garden.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "00e6e6db4ca8387b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_staging/new note template.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "_staging/new note template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "_staging/new note template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "_staging/new note template.md"
               }
             }
           }
@@ -160,11 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8324aae85d936aa9",
+  "active": "9bab2d31b487a9b9",
   "lastOpenFiles": [
-    "improve my thinking.md",
     "my new digital garden.md",
+    "_staging/new note template.md",
+    "templates",
     "Welcome.md",
+    "improve my thinking.md",
     "_staging"
   ]
 }
